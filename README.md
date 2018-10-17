@@ -3,6 +3,6 @@ This is the repository for the project in the IR course at Radboud University in
 
 Collaborators:
 
-Silvia Santamaria
-Morten Bildsøe
+Silvia Santamaria,
+Morten Bildsøe,
 David Zacharae

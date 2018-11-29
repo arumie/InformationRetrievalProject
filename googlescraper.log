@@ -1,0 +1,23 @@
+[MainThread] - 2018-11-23 10:09:06,838 - GoogleScraper.caching - INFO - 0 cache files found in .scrapecache/
+[MainThread] - 2018-11-23 10:09:06,842 - GoogleScraper.caching - INFO - 0/4 objects have been read from the cache. 4 remain to get scraped.
+[MainThread] - 2018-11-23 10:09:06,948 - GoogleScraper.core - INFO - Going to scrape 4 keywords with 1 proxies by using 4 threads.
+[MainThread] - 2018-11-23 10:09:10,685 - GoogleScraper.scraping - INFO - [+] SelScrape[localhost][search-type:image][https://de.search.yahoo.com/search?] using search engine "yahoo". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:09:10,694 - GoogleScraper.scraping - INFO - [+] GoogleSelScrape[localhost][search-type:image][https://www.google.com/search?] using search engine "google". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:09:10,703 - GoogleScraper.scraping - INFO - [+] SelScrape[localhost][search-type:image][http://www.bing.com/search?] using search engine "bing". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:09:10,709 - GoogleScraper.scraping - INFO - [+] SelScrape[localhost][search-type:image][http://yandex.ru/yandsearch?] using search engine "yandex". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:18:03,730 - GoogleScraper.caching - INFO - 0 cache files found in .scrapecache/
+[MainThread] - 2018-11-23 10:18:03,737 - GoogleScraper.caching - INFO - 0/4 objects have been read from the cache. 4 remain to get scraped.
+[MainThread] - 2018-11-23 10:18:03,934 - GoogleScraper.core - INFO - Going to scrape 4 keywords with 1 proxies by using 2 threads.
+[MainThread] - 2018-11-23 10:18:03,946 - GoogleScraper.scraping - INFO - [+] SelScrape[localhost][search-type:image][http://www.baidu.com/s?] using search engine "baidu". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:19:26,934 - GoogleScraper.caching - INFO - 0 cache files found in .scrapecache/
+[MainThread] - 2018-11-23 10:19:26,937 - GoogleScraper.caching - INFO - 0/2 objects have been read from the cache. 2 remain to get scraped.
+[MainThread] - 2018-11-23 10:19:27,112 - GoogleScraper.core - INFO - Going to scrape 2 keywords with 1 proxies by using 1 threads.
+[MainThread] - 2018-11-23 10:19:27,122 - GoogleScraper.scraping - INFO - [+] SelScrape[localhost][search-type:image][http://www.bing.com/search?] using search engine "bing". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:25:48,318 - GoogleScraper.caching - INFO - 0 cache files found in .scrapecache/
+[MainThread] - 2018-11-23 10:25:48,318 - GoogleScraper.caching - INFO - 0/2 objects have been read from the cache. 2 remain to get scraped.
+[MainThread] - 2018-11-23 10:25:48,547 - GoogleScraper.core - INFO - Going to scrape 2 keywords with 1 proxies by using 1 threads.
+[MainThread] - 2018-11-23 10:25:48,560 - GoogleScraper.scraping - INFO - [+] SelScrape[localhost][search-type:image][http://www.bing.com/search?] using search engine "bing". Num keywords=1, num pages for keyword=[1]
+[MainThread] - 2018-11-23 10:27:21,597 - GoogleScraper.caching - INFO - 0 cache files found in .scrapecache/
+[MainThread] - 2018-11-23 10:27:21,597 - GoogleScraper.caching - INFO - 0/2 objects have been read from the cache. 2 remain to get scraped.
+[MainThread] - 2018-11-23 10:27:21,792 - GoogleScraper.core - INFO - Going to scrape 2 keywords with 1 proxies by using 1 threads.
+[MainThread] - 2018-11-23 10:27:21,804 - GoogleScraper.scraping - INFO - [+] GoogleSelScrape[localhost][search-type:image][https://www.google.com/search?] using search engine "google". Num keywords=1, num pages for keyword=[1]
